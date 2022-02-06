@@ -1,4 +1,4 @@
-# Portfolio-Projects
+# Visualization Project using Microsoft SQL server and Tableau
 Covid-19 Data analysis
 Project description* Sorting, filtering and cleaning large data in MS-Excel
 * Imported data into Microsoft SQL server further applying queries to extract the necessary data creating views and temp tables, creating joins, grouping and using aggregate functions
